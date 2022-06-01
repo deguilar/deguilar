@@ -2,7 +2,7 @@
 
 🌎 Natural de Belo Horizonte(MG)
 
-👷‍♂️ Engenheiro formado na FUMEC 
+👷‍♂️ Engenheiro civil formado na FUMEC 
 
 👨‍🏫 Licenciado em matemática pelo CEFET-MG
 
