@@ -2,6 +2,10 @@
 
 🌎 Natural de Belo Horizonte(MG)
 
+👷‍♂️ Engenheiro formado na FUMEC 
+
+👨‍🏫 Licenciado em matemática pelo CEFET-MG
+
 <p> 👨‍💻 Sou estudante de desenvolvimento web full-stack na <a href="https://www.betrybe.com/" alt="Trybe"> Trybe </a></p>
 
 ##
