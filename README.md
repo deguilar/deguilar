@@ -45,8 +45,8 @@
   <img align="center" width="336px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deguilar&layout=compact&theme=dracula" alt="deguilar" />
 </a>
 
-<!-- ![Snake animation](https://github.com/deguilar/deguilar/blob/output/github-contribution-grid-snake.svg) -->
-![Snake animation](https://github.com/deguilar/deguilar/blob/main/.github/workflows/main.yml)
+![Snake animation](https://github.com/rafaballerini/rafaballeini/blob/output/github-contribution-grid-snake.svg)
+
 
 
  
